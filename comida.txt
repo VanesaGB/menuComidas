@@ -4,3 +4,6 @@ Croquetas
 
 Ensaladilla rusa
 Sopa
+
+14,45€
+19,99€
